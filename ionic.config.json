@@ -1,0 +1,7 @@
+{
+  "name": "everyd-calendar",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
